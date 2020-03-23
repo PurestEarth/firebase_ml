@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "37855977377",
+    "firebase_url": "https://androidml-77627.firebaseio.com",
+    "project_id": "androidml-77627",
+    "storage_bucket": "androidml-77627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37855977377:android:757c412077d7ceb57775e0",
+        "android_client_info": {
+          "package_name": "com.example.androidml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37855977377-19fs8qncm5jurgglsvd3r4e1ofoge7k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9nnDtguADpcAdUU8ERem6-0NVVDJQp_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37855977377-19fs8qncm5jurgglsvd3r4e1ofoge7k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
