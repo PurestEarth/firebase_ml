@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">AndroidML</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
+    <string name="title_first">Image recognition</string>
+    <string name="title_second">Text recognition</string>
     <string name="title_notifications">Notifications</string>
+    <string name="request_lavels">Request labels</string>
+    <string name="process">Process</string>
 </resources>
